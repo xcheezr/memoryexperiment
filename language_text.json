@@ -1,0 +1,626 @@
+{
+  "en": {
+    "consent": "<h2>Informed consent and debrief</h2><p>You are invited to take part in a study on memory and sleep. You will memorize word pairs, answer some questions, and be tested again after a night of sleep. Participation is voluntary, and you may stop at any time. Your responses will be stored anonymously under a participant code and used strictly for research purposes.</p><p>By continuing, you confirm that you have read this information and agree to take part. A full debriefing on the study's purpose will be provided at the end.</p>",
+    "instructions": "<p><b>Instructions:</b> You will memorize word pairs, shown one at a time for 10 seconds each. After each round you fill in the second word of each pair. Please <b>wear headphones or earbuds</b> with the <b>volume turned up</b>.</p><p><b>Epilepsy warning:</b> This experiment includes music and rapidly flashing, bright colors, which may trigger seizures in people with epilepsy. If you have epilepsy, you may choose not to participate.</p>",
+    "resume": "Resume experiment",
+    "new": "Start new experiment",
+    "code": "Enter code",
+    "prelim": [
+      [
+        "Caffeine intake in the last 4 hours?",
+        [
+          "None",
+          "1 cup",
+          "2+ cups"
+        ]
+      ],
+      [
+        "Focus",
+        [
+          "1 – very low",
+          "2 – low",
+          "3 – moderate",
+          "4 – high",
+          "5 – very high"
+        ]
+      ],
+      [
+        "Age (in years)"
+      ],
+      [
+        "Gender",
+        [
+          "Male",
+          "Female"
+        ]
+      ],
+      [
+        "School type",
+        [
+          "vmbo",
+          "mavo",
+          "havo",
+          "vwo",
+          "Other"
+        ]
+      ],
+      [
+        "School year",
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      ]
+    ],
+    "specify": "Please specify",
+    "fill0": "Fill in the corresponding words you have just memorized. Leave blank if forgotten.",
+    "wait": "Get a good night's rest to let the words internalize. Come back after having slept. This experiment will wait at least 12 hours. You can leave this page and log back in later with <b>{code}</b>.",
+    "sleep": [
+      "When did you fall asleep?",
+      "When did you wake up?"
+    ],
+    "units": [
+      "hour",
+      "minute"
+    ],
+    "slept": "You've slept for {h}h {m}min",
+    "fill24": "Fill in the corresponding words you still remember after having slept. Leave forgotten words blank.",
+    "thanks": "Thank you for participating in this research. The data is automatically saved.",
+    "focused": [
+      [
+        "apple",
+        "river"
+      ],
+      [
+        "chair",
+        "cloud"
+      ],
+      [
+        "lamp",
+        "stone"
+      ],
+      [
+        "shoe",
+        "bridge"
+      ],
+      [
+        "paper",
+        "forest"
+      ],
+      [
+        "train",
+        "mirror"
+      ],
+      [
+        "clock",
+        "window"
+      ],
+      [
+        "bread",
+        "flame"
+      ],
+      [
+        "house",
+        "planet"
+      ],
+      [
+        "key",
+        "ocean"
+      ]
+    ],
+    "distracted": [
+      [
+        "mountain",
+        "brush"
+      ],
+      [
+        "sun",
+        "boot"
+      ],
+      [
+        "fish",
+        "book"
+      ],
+      [
+        "car",
+        "coin"
+      ],
+      [
+        "horse",
+        "crown"
+      ],
+      [
+        "moon",
+        "pillow"
+      ],
+      [
+        "garden",
+        "rope"
+      ],
+      [
+        "bottle",
+        "ladder"
+      ],
+      [
+        "shirt",
+        "bell"
+      ],
+      [
+        "basket",
+        "candle"
+      ]
+    ]
+  },
+  "nl": {
+    "consent": "<h2>Geïnformeerde toestemming en nabespreking</h2><p>Je wordt uitgenodigd om deel te nemen aan een onderzoek naar geheugen en slaap. Je zult woordparen uit je hoofd leren, enkele vragen beantwoorden en na een nacht slapen opnieuw worden getest. Deelname is vrijwillig en je kunt op elk moment stoppen. Je antwoorden worden anoniem opgeslagen onder een deelnemerscode en uitsluitend voor onderzoeksdoeleinden gebruikt.</p><p>Door verder te gaan, bevestig je dat je deze informatie hebt gelezen en ermee instemt om deel te nemen. Aan het einde krijg je een volledige uitleg over het doel van het onderzoek.</p>",
+    "instructions": "<p><b>Instructies:</b> Je leert woordparen uit je hoofd, die één voor één 10 seconden worden getoond. Na elke ronde vul je het tweede woord van elk paar in. Draag <b>een koptelefoon of oortjes</b> en zet het <b>volume hoger</b>.</p><p><b>Epilepsiewaarschuwing:</b> Dit experiment bevat muziek en snel wisselende, felle kleuren, die aanvallen kunnen uitlokken bij mensen met epilepsie. Als je epilepsie hebt, mag je ervoor kiezen om niet deel te nemen.</p>",
+    "resume": "Experiment hervatten",
+    "new": "Nieuw experiment starten",
+    "code": "Voer code in",
+    "prelim": [
+      [
+        "Cafeïne in de afgelopen 4 uur?",
+        [
+          "Geen",
+          "1 kopje",
+          "2 of meer kopjes"
+        ]
+      ],
+      [
+        "Concentratie",
+        [
+          "1 – zeer laag",
+          "2 – laag",
+          "3 – gemiddeld",
+          "4 – hoog",
+          "5 – zeer hoog"
+        ]
+      ],
+      [
+        "Leeftijd (in jaren)"
+      ],
+      [
+        "Geslacht",
+        [
+          "Man",
+          "Vrouw"
+        ]
+      ],
+      [
+        "Schooltype",
+        [
+          "vmbo",
+          "mavo",
+          "havo",
+          "vwo",
+          "Anders"
+        ]
+      ],
+      [
+        "Leerjaar",
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      ]
+    ],
+    "specify": "Specificeer alsjeblieft",
+    "fill0": "Vul de bijbehorende woorden in die je zojuist uit je hoofd hebt geleerd. Laat het antwoord leeg als je het woord bent vergeten.",
+    "wait": "Slaap een nacht goed, zodat de woorden zich kunnen nestelen in je geheugen. Kom terug nadat je hebt geslapen. Dit experiment wacht minstens 12 uur. Je kunt deze pagina verlaten en later opnieuw inloggen met <b>{code}</b>.",
+    "sleep": [
+      "Hoe laat viel je in slaap?",
+      "Hoe laat werd je wakker?"
+    ],
+    "units": [
+      "uur",
+      "minuut"
+    ],
+    "slept": "Je hebt {h}u {m}min geslapen",
+    "fill24": "Vul de bijbehorende woorden in die je na het slapen nog weet. Laat vergeten woorden leeg.",
+    "thanks": "Bedankt voor je deelname aan dit onderzoek. De gegevens worden automatisch opgeslagen.",
+    "focused": [
+      [
+        "appel",
+        "rivier"
+      ],
+      [
+        "stoel",
+        "wolk"
+      ],
+      [
+        "lamp",
+        "steen"
+      ],
+      [
+        "schoen",
+        "brug"
+      ],
+      [
+        "papier",
+        "bos"
+      ],
+      [
+        "trein",
+        "spiegel"
+      ],
+      [
+        "klok",
+        "raam"
+      ],
+      [
+        "brood",
+        "vlam"
+      ],
+      [
+        "huis",
+        "planeet"
+      ],
+      [
+        "sleutel",
+        "oceaan"
+      ]
+    ],
+    "distracted": [
+      [
+        "berg",
+        "borstel"
+      ],
+      [
+        "zon",
+        "laars"
+      ],
+      [
+        "vis",
+        "boek"
+      ],
+      [
+        "auto",
+        "munt"
+      ],
+      [
+        "paard",
+        "kroon"
+      ],
+      [
+        "maan",
+        "kussen"
+      ],
+      [
+        "tuin",
+        "touw"
+      ],
+      [
+        "fles",
+        "ladder"
+      ],
+      [
+        "hemd",
+        "bel"
+      ],
+      [
+        "mand",
+        "kaars"
+      ]
+    ]
+  },
+  "es": {
+    "consent": "<h2>Consentimiento informado y explicación final</h2><p>Te invitamos a participar en un estudio sobre la memoria y el sueño. Memorizarás pares de palabras, responderás algunas preguntas y volverás a realizar una prueba después de una noche de sueño. La participación es voluntaria y puedes retirarte en cualquier momento. Tus respuestas se almacenarán de forma anónima mediante un código de participante y se utilizarán exclusivamente con fines de investigación.</p><p>Al continuar, confirmas que has leído esta información y aceptas participar. Al final se te explicará detalladamente el propósito del estudio.</p>",
+    "instructions": "<p><b>Instrucciones:</b> Memorizarás pares de palabras que se mostrarán de uno en uno durante 10 segundos. Después de cada ronda escribirás la segunda palabra de cada par. Asegúrate de <b>llevar puestos unos auriculares</b> y de tener el <b>volumen subido</b>.</p><p><b>Advertencia sobre epilepsia:</b> Este experimento incluye música y colores brillantes que cambian rápidamente, lo que puede provocar convulsiones en personas con epilepsia. Si tienes epilepsia, puedes elegir no participar.</p>",
+    "resume": "Reanudar experimento",
+    "new": "Iniciar nuevo experimento",
+    "code": "Introduce el código",
+    "prelim": [
+      [
+        "¿Has consumido cafeína en las últimas 4 horas?",
+        [
+          "Ninguna",
+          "1 taza",
+          "2 o más tazas"
+        ]
+      ],
+      [
+        "Concentración",
+        [
+          "1 – muy baja",
+          "2 – baja",
+          "3 – moderada",
+          "4 – alta",
+          "5 – muy alta"
+        ]
+      ],
+      [
+        "Edad (en años)"
+      ],
+      [
+        "Género",
+        [
+          "Hombre",
+          "Mujer"
+        ]
+      ],
+      [
+        "Tipo de escuela",
+        [
+          "vmbo",
+          "mavo",
+          "havo",
+          "vwo",
+          "Otro"
+        ]
+      ],
+      [
+        "Curso escolar",
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      ]
+    ],
+    "specify": "Por favor, especifica",
+    "fill0": "Escribe las palabras correspondientes que acabas de memorizar. Deja la respuesta en blanco si has olvidado la palabra.",
+    "wait": "Descansa bien para que las palabras se asienten en tu memoria. Vuelve después de dormir. Este experimento esperará al menos 12 horas. Puedes salir de esta página y volver a entrar más tarde con <b>{code}</b>.",
+    "sleep": [
+      "¿A qué hora te dormiste?",
+      "¿A qué hora te despertaste?"
+    ],
+    "units": [
+      "hora",
+      "minuto"
+    ],
+    "slept": "Dormiste {h} h y {m} min",
+    "fill24": "Escribe las palabras correspondientes que aún recuerdas después de dormir. Deja en blanco las palabras que hayas olvidado.",
+    "thanks": "Gracias por participar en esta investigación. Los datos se guardan automáticamente.",
+    "focused": [
+      [
+        "manzana",
+        "río"
+      ],
+      [
+        "silla",
+        "nube"
+      ],
+      [
+        "lámpara",
+        "piedra"
+      ],
+      [
+        "zapato",
+        "puente"
+      ],
+      [
+        "papel",
+        "bosque"
+      ],
+      [
+        "tren",
+        "espejo"
+      ],
+      [
+        "reloj",
+        "ventana"
+      ],
+      [
+        "pan",
+        "llama"
+      ],
+      [
+        "casa",
+        "planeta"
+      ],
+      [
+        "llave",
+        "océano"
+      ]
+    ],
+    "distracted": [
+      [
+        "montaña",
+        "cepillo"
+      ],
+      [
+        "sol",
+        "bota"
+      ],
+      [
+        "pez",
+        "libro"
+      ],
+      [
+        "coche",
+        "moneda"
+      ],
+      [
+        "caballo",
+        "corona"
+      ],
+      [
+        "luna",
+        "almohada"
+      ],
+      [
+        "jardín",
+        "cuerda"
+      ],
+      [
+        "botella",
+        "escalera"
+      ],
+      [
+        "camisa",
+        "campana"
+      ],
+      [
+        "cesta",
+        "vela"
+      ]
+    ]
+  },
+  "pap": {
+    "consent": "<h2>Konsentimentu informá i splikashon final</h2><p>Nos ta invitá bo pa tuma parti den un estudio tokante memoria i soño. Bo lo memorisá par di palabra, kontestá algun pregunta i hasi un prueba di nobo despues di un anochi di soño. Partisipashon ta boluntario, i bo por stòp na kualke momento. Bo kontestanan lo wòrdu wardá anónimamente bou di un kódigo di partisipante i lo wòrdu usá solamente pa propósitos di investigashon.</p><p>Ora bo sigui, bo ta konfirmá ku bo a lesa e informashon aki i ku bo ta di akuerdo pa tuma parti. Na final, nos lo splika bo kompletamente kua ta e propósito di e estudio.</p>",
+    "instructions": "<p><b>Instrukshon:</b> Bo lo memorisá par di palabra ku lo mustra un pa un pa 10 sekònde. Despues di kada ronda bo ta skirbi e di dos palabra di kada par. Sigurá ku bo <b>ta bisti un headphone òf earbud</b> i ku e <b>volumen ta subi</b>.</p><p><b>Avertensia pa epilepsia:</b> E eksperimento aki ta inkluí músika i koló kla ku ta kambia lihé, ku por provoká atake den hende ku epilepsia. Si bo tin epilepsia, bo por skohe pa no tuma parti.</p>",
+    "resume": "Sigui eksperimento",
+    "new": "Kuminsá eksperimento nobo",
+    "code": "Drenta kódigo",
+    "prelim": [
+      [
+        "Bo a konsumí kafeína den e último 4 oranan?",
+        [
+          "Ningun",
+          "1 kop",
+          "2 òf mas kop"
+        ]
+      ],
+      [
+        "Konsentrashon",
+        [
+          "1 – hopi abou",
+          "2 – abou",
+          "3 – mediano",
+          "4 – haltu",
+          "5 – hopi haltu"
+        ]
+      ],
+      [
+        "Edat (den aña)"
+      ],
+      [
+        "Género",
+        [
+          "Hòmber",
+          "Muhé"
+        ]
+      ],
+      [
+        "Tipo di skol",
+        [
+          "vmbo",
+          "mavo",
+          "havo",
+          "vwo",
+          "Otro"
+        ]
+      ],
+      [
+        "Aña di skol",
+        [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      ]
+    ],
+    "specify": "Por fabor, spesifiká",
+    "fill0": "Skirbi e palabranan korespondiente ku bo a memorisá kaba. Laga e kontesta bashí si bo a lubidá e palabra.",
+    "wait": "Drumi bon pa yuda e palabranan keda wardá den bo memoria. Bini bèk despues di drumi. E eksperimento aki lo warda mínimo 12 ora. Bo por sali di e página aki i drenta di nobo despues ku <b>{code}</b>.",
+    "sleep": [
+      "Ki ora bo a drumi?",
+      "Ki ora bo a lanta?"
+    ],
+    "units": [
+      "ora",
+      "minüt"
+    ],
+    "slept": "Bo a drumi {h} ora i {m} minüt",
+    "fill24": "Skirbi e palabranan korespondiente ku bo ta kòrda ainda despues di drumi. Laga e palabranan ku bo a lubidá bashí.",
+    "thanks": "Danki pa bo partisipashon den e investigashon aki. E datonan ta wòrdu wardá outomátikamente.",
+    "focused": [
+      [
+        "apel",
+        "riu"
+      ],
+      [
+        "stul",
+        "nubia"
+      ],
+      [
+        "lampi",
+        "pieda"
+      ],
+      [
+        "sapatu",
+        "brùg"
+      ],
+      [
+        "papel",
+        "mondi"
+      ],
+      [
+        "trein",
+        "spil"
+      ],
+      [
+        "oloshi",
+        "bentana"
+      ],
+      [
+        "pan",
+        "kandela"
+      ],
+      [
+        "kas",
+        "planeta"
+      ],
+      [
+        "klave",
+        "oseano"
+      ]
+    ],
+    "distracted": [
+      [
+        "seru",
+        "bòrstel"
+      ],
+      [
+        "solo",
+        "lars"
+      ],
+      [
+        "piská",
+        "buki"
+      ],
+      [
+        "outo",
+        "plaka"
+      ],
+      [
+        "kabai",
+        "korona"
+      ],
+      [
+        "luna",
+        "kusinchi"
+      ],
+      [
+        "hòfi",
+        "kabuya"
+      ],
+      [
+        "bòter",
+        "trapi"
+      ],
+      [
+        "kamisa",
+        "bèl"
+      ],
+      [
+        "dakué",
+        "bela"
+      ]
+    ]
+  }
+}
